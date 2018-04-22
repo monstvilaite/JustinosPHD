@@ -3,9 +3,9 @@ title: "Economy model"
 author: "Justina Banioniene"
 date: '2018 m balandis 21 d '
 output:
+  word_document: default
   pdf_document: default
   html_document: default
-  word_document: default
 ---
 
 ## Including Plots
@@ -21,5 +21,7 @@ plot(pressure)
 |$\rho$ | try |
 | $I_e$ |  investment in eco-design |
 | $I_I$ | investment in infrastructure |
+| $I_{cl}$ |  investment in clean production |  
+| $I_r$ | Investment in recycling technology | 
 | $I_{cl}$ |  investment in clean production |  
 | $I_r$ | Investment in recycling technology | 
