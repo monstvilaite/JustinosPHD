@@ -39,3 +39,14 @@ plot(pressure)
 | $I_r$ | Investment in recycling technology | 
 | $I_{cl}$ |  investment in clean production |  
 | $I_r$ | Investment in recycling technology | 
+
+
+|       |     |
+|-------|-----|
+|$\rho$ | try |
+| $I_e$ |  investment in eco-design |
+| $I_I$ | investment in infrastructure |
+| $I_{cl}$ |  investment in clean production |  
+| $I_r$ | Investment in recycling technology | 
+| $I_{cl}$ |  investment in clean production |  
+| $I_r$ | Investment in recycling technology | 
